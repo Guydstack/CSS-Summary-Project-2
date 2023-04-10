@@ -179,14 +179,14 @@ background-color: black;
 
 /* Article */
 .article-container{
-    /* background-color: gainsboro; */
+    background-color: gainsboro;
     display: flex;
     justify-content:space-evenly;
     padding: 20px 0;
-    background-image: url(Image/sand-ge9f5481a7_1920.jpg);
+    /* background-image: url(Image/sand-ge9f5481a7_1920.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;  
-    background-size: cover; 
+    background-size: cover;  */
 }
 
 .article-content{
